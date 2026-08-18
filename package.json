@@ -1,12 +1,14 @@
 {
   "name": "escobar-backend",
   "version": "1.0.0",
-  "main": "app.js",
+  "description": "EscobarBet Backend - CEO Monsuru 08076747965 - Withdraw Code Auto Verified Successful - WAY B AUTOMATIC - Real Payment",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
   }
-}
+} 
